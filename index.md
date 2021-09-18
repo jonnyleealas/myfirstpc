@@ -12,9 +12,8 @@ I have always dreamt of building a gaming pc. I have decided to finally build my
 1. Lastly I want to build a pc that is more on the smaller side. I'm not a big fan of big pc's. I like clean and functional; it needs to fit in my room lol.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Reaserch 
+[Youtube](https://www.youtube.com/watch?v=NnETLWP7m9k)
 
 ```markdown
 Syntax highlighted code block
