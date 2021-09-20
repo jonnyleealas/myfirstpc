@@ -12,6 +12,14 @@ I have always dreamt of building a gaming pc. I have decided to finally build my
 1. Lastly I want to build a pc that is more on the smaller side. I'm not a big fan of big pc's. I like clean and functional; it needs to fit in my room lol.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Parts
+- Motherboard Asus Strix Geforce GTX 970 DirectCu ii, oc edition , 4gb GDDR5, 1X 8-pin, 
+- Case Fractal Design Meshify C Compact Computer Case Dark
+- CPU AMD Ryzen 5 2600 3.9GHz 6 Core
+- RAM TeamGroup T-Create DDR4 16GB 3200MHz
+- Western Digital m.2 1TB NVMe SSD 3430mb/s
+- Power Supply EVGA 450 W
+
 ### Reaserch 
 [Youtube](https://www.youtube.com/watch?v=NnETLWP7m9k)
 
